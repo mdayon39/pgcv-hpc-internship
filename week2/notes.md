@@ -1,0 +1,4 @@
+-Create partner github account
+-Fork orig git account
+-Clone git account
+-Add week2 folder for testing
